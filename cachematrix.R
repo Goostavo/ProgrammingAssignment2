@@ -3,7 +3,8 @@
 ## The CacheMatrix is a matrix that can cache it's inverse
 
 
-## makeCacheMatrix is the constructor for the cacheMatrix object
+## makeCacheMatrix
+# Is cacheMatrix object, that is a matrix with an extra field for its inverse
 # args:
 # x -> Contains the initial value for the CacheMatrix
 #
